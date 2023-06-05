@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 --->
 My accomplishment badges (so far): 
 
-![image](https://user-images.githubusercontent.com/13675217/214573531-80fc3f2a-a901-4f45-b763-76a84796d298.png) ![image](https://user-images.githubusercontent.com/13675217/214573295-155f08b5-2875-43fb-bc68-660a2f11bc2b.png) ![image](https://user-images.githubusercontent.com/13675217/214573977-f3a7fe67-76b4-4552-bb8e-20c248358050.png) ![image](https://user-images.githubusercontent.com/13675217/215325014-6324689e-ae16-4eb0-bf6a-77691b6a1da8.png)
+![image](https://user-images.githubusercontent.com/13675217/214573531-80fc3f2a-a901-4f45-b763-76a84796d298.png) ![image](https://user-images.githubusercontent.com/13675217/214573295-155f08b5-2875-43fb-bc68-660a2f11bc2b.png) ![image](https://user-images.githubusercontent.com/13675217/214573977-f3a7fe67-76b4-4552-bb8e-20c248358050.png) ![image](https://user-images.githubusercontent.com/13675217/215325014-6324689e-ae16-4eb0-bf6a-77691b6a1da8.png) ![image](https://github.com/aglaiak/aglaiak/assets/13675217/4ebc6c29-b1a8-448e-a02c-e22b0f3d2013)
+
 
 
 
