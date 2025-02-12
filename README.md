@@ -1,10 +1,10 @@
 ## About Me
 
 - 👋 Hi, I am Aglaia!
-- 🧬 Biologist with a Master's in Neurosciences, actively transitioning into the dynamic field of Data Science.
+- 🧬 Biologist with a Master's in Neurosciences 
 - 🖥 Collaborating with OakVar Bioinformatics on various projects that merge Biology with Informatics. Each project is a new learning experience!
 - 👀 Main interest: Applications of Machine Learning in Biology, Spatial Transcriptomics and Genomics
-- 😎 Other interests: Statistics, solving everyday problems with Python
+- 😎 Other interests: statistics, solving everyday problems with Python
 - 🎮 Hobbies:  Video Games, Escape Rooms, Dungeons and Dragons and Chess
 
 <!---
